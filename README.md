@@ -38,6 +38,8 @@ Plot results
 
 Question: how does the average state duration depend on the variance of the external current?
 
+# Slides for the course lectures [pdf](https://drive.google.com/file/d/1OsDgXfsJRQ3gqADEeewXVWafiWCoWT14/view?usp=sharing "Slides")
+
 # References
 1.	La Camera, G., Fontanini, A. & Mazzucato, L. Cortical computations via metastable activity. Curr. Opin. Neurobiol. 58, 37–45 (2019).
 2.	Litwin-Kumar, A. & Doiron, B. Slow dynamics and high variability in balanced cortical networks with clustered connections. Nat. Neurosci. 15, 1498–1505 (2012).
